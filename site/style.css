@@ -1,0 +1,24 @@
+.fa-twitter{
+    color: rgba(85, 28, 28, 0.788);
+}
+.fa-github{
+    color: rgba(85, 28, 28, 0.788);
+}
+.fa-linkedin{
+    color: rgba(85, 28, 28, 0.788);
+}
+
+.section-1{
+font-size: 1.5rem;    
+}
+
+.skills{
+    font-size: 1.5rem;    
+}
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+  }
+  
